@@ -1,0 +1,15 @@
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\bin\Debug\VG-List.exe.config
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\bin\Debug\VG-List.exe
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\bin\Debug\VG-List.pdb
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\MainWindow.baml
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\MainWindow.g.cs
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\App.g.cs
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\VG-List_MarkupCompile.cache
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\VG-List.g.resources
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\VG_List.Properties.Resources.resources
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\VG-List.csproj.GenerateResource.Cache
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\VG-List.exe
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\VG-List.pdb
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\VG-List.csprojResolveAssemblyReference.cache
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\VG-List_MarkupCompile.lref
+C:\Users\1\Google Диск\My disk\VG-list\VG-List\VG-List\obj\Debug\GeneratedInternalTypeHelper.g.cs

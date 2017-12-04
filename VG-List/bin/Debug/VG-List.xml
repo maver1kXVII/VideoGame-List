@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VGame>
+    <Title>Metroid: Fusion</Title>
+    <Platform>GBA</Platform>
+    <Score>9</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>2016-09-19T00:00:00</DateFinished>
+    <DateAdded>2016-09-26T00:00:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Dark Souls: Prepare to Die Edition</Title>
+    <Platform>PC</Platform>
+    <Score>10</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>2015-10-23T00:00:00</DateFinished>
+    <DateAdded>2016-09-26T00:00:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Dark Souls II: Scholar of the First Sin</Title>
+    <Platform>PC</Platform>
+    <Score>9</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>2016-01-12T00:00:00</DateFinished>
+    <DateAdded>2016-09-26T00:00:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Wolfenstein: The New Order</Title>
+    <Platform>PC</Platform>
+    <Score>8</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>2015-12-11T00:00:00</DateFinished>
+    <DateAdded>2016-09-26T00:00:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Hotline Miami</Title>
+    <Platform>PC</Platform>
+    <Score>8</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>2015-08-19T00:00:00</DateFinished>
+    <DateAdded>2016-09-27T00:00:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Mass Effect 2</Title>
+    <Platform>PC</Platform>
+    <Score>9</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>0001-01-01T00:00:00</DateFinished>
+    <DateAdded>2016-09-28T00:00:00+07:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>SteamWorld Dig</Title>
+    <Platform>PC</Platform>
+    <Score>8</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>2015-05-01T00:00:00</DateFinished>
+    <DateAdded>2016-09-28T00:00:00+07:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Terraria</Title>
+    <Platform>PC</Platform>
+    <Score>10</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>2015-07-23T00:00:00</DateFinished>
+    <DateAdded>2016-09-28T00:00:00+07:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Half-Life 2</Title>
+    <Platform>PC</Platform>
+    <Score>9</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>0001-01-01T00:00:00</DateFinished>
+    <DateAdded>2016-09-28T00:00:00+07:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Star Wars Jedi Knight: Jedi Academy</Title>
+    <Platform>PC</Platform>
+    <Score>8</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>0001-01-01T00:00:00</DateFinished>
+    <DateAdded>2016-09-30T00:00:00+07:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Red Faction II</Title>
+    <Platform>PC</Platform>
+    <Score>8</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>0001-01-01T00:00:00</DateFinished>
+    <DateAdded>2016-09-30T00:00:00+07:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Мор. Утопия</Title>
+    <Platform>PC</Platform>
+    <Score>-1</Score>
+    <Status>Играю</Status>
+    <DateFinished>0001-01-01T00:00:00</DateFinished>
+    <DateAdded>2017-03-15T00:00:00+07:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Serious Sam HD: The First Encounter</Title>
+    <Platform>PC</Platform>
+    <Score>9</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>2017-06-18T00:00:00+07:00</DateFinished>
+    <DateAdded>2017-06-18T00:00:00+07:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Another Metroid 2 Remake</Title>
+    <Platform>PC</Platform>
+    <Score>10</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>2017-09-30T00:00:00+07:00</DateFinished>
+    <DateAdded>2017-09-30T00:00:00+07:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>DOOM 2: Hell on Earth</Title>
+    <Platform>PC</Platform>
+    <Category>zandronum</Category>
+    <Score>9</Score>
+    <Status>Пройдена</Status>
+    <DateFinished>2017-10-06T00:00:00+07:00</DateFinished>
+    <DateAdded>2017-10-06T00:00:00+07:00</DateAdded>
+  </VGame>
+  <VGame>
+    <Title>Demon's Souls</Title>
+    <Platform>PS3</Platform>
+    <Score>-1</Score>
+    <Status>Играю</Status>
+    <DateFinished>0001-01-01T00:00:00</DateFinished>
+    <DateAdded>2017-10-18T00:00:00+07:00</DateAdded>
+  </VGame>
+</ArrayOfVGame>
